@@ -1,4 +1,4 @@
-# SEED: Spectrally Decoupled Distributional Learning
+# Decoupling is the Key: Scaling Deep Value Networks in Reinforcement Learning-SEED
 
 This repository contains a cleaned **online SAC implementation** of SEED for continuous-control Gymnasium environments. It combines:
 
